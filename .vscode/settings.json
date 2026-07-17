@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "My_SQL",
+            "database": "MySQL",
+            "username": "root",
+            "password": "vamshi1234k",
+            "connectionTimeout": 30
+        }
+    ], 
+
+    "java.project.referencedLibraries": [
+        "Program_5/lib/**/*.jar",
+        "D:\\VamshiProfessional\\Server\\Tomcat\\lib\\servlet-api.jar"
+    ]
+}
