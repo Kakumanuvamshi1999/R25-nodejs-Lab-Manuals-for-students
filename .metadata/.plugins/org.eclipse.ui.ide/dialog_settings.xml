@@ -34,9 +34,9 @@
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\VamshiProfessional\NodeJS_programs\Program_5"/>
 			<item value="D:\VamshiProfessional\NodeJS_programs\Program_5(Windows)"/>
 			<item value="D:\VamshiProfessional\NodeJS_programs\Program_7"/>
-			<item value="D:\VamshiProfessional\NodeJS_programs\Program_5"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
@@ -47,6 +47,13 @@
 			<item key="DIALOG_WIDTH" value="560"/>
 			<item key="DIALOG_HEIGHT" value="743"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+		<section name="NewWizard.dialogBounds">
 		</section>
 	</section>
 </section>
