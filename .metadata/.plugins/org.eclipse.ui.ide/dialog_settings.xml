@@ -15,6 +15,7 @@
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_SKIP_DOT_FOLDERS" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\VamshiProfessional\NodeJS_programs\Program_5"/>
 			<item value="D:\VamshiProfessional\NodeJS_programs\Program_5(Windows)"/>
 			<item value="D:\VamshiProfessional\NodeJS_programs"/>
 		</list>
