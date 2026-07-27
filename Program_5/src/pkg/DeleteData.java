@@ -15,7 +15,7 @@ public class DeleteData {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             // Establish connection
-            Connection con= DriverManager.getConnection(
+            Connection con = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/testdb",
                     "root",
                     "vamshi1234k");
